@@ -21,7 +21,7 @@ role        : Computer Science Student & Backend Developer
 education   : Bachelor of Computer Science · Swinburne University of Technology (2022–2026)
 location    : Ho Chi Minh City, Vietnam 🇻🇳
 ielts       : 6.5
-interests   : [ Backend APIs, Authentication, Frontend UI, Project Tooling ]
+interests   : [ Backend APIs, Authentication, ORM, Docker ]
 ```
 
 ---
@@ -33,6 +33,7 @@ interests   : [ Backend APIs, Authentication, Frontend UI, Project Tooling ]
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-512BD4?style=flat-square&logo=python&logoColor=white)
 
 ### Frontend
@@ -95,12 +96,12 @@ A lightweight bug tracking web app with add/edit/delete/filter by status, severi
 </td>
 <td width="50%" valign="top">
 
-### HIREWISE UI Sketch
-`Figma`
+### File Manager API
+`FastAPI` `PostgreSQL` `SQLAlchemy`
 
-UI layout sketch for an AI-powered recruitment platform. Focused on overall structure and user flow.
+Full-featured file management API with JWT auth, role-based access control (admin/user), email verification, file upload/download/preview, and a drag & drop frontend.
 
-[Figma →](https://www.figma.com/design/y8whVdCmavZWWjq5qEywO8/HIREWISE)
+[GitHub →](https://github.com/AndrewKhang/file-manager-api)
 
 </td>
 </tr>
