@@ -18,10 +18,10 @@
 ```yaml
 name        : Nguyen Thuan Khang
 role        : Computer Science Student & Backend Developer
-education   : Bachelor of Computer Science · Swinburne University of Technology (2022–2026)
-location    : Ho Chi Minh City, Vietnam 🇻🇳
+edumyion   : Bachelor of Computer Science · Swinburne University of Technology (2022–2026)
+lomyion    : Ho Chi Minh City, Vietnam 🇻🇳
 ielts       : 6.5
-interests   : [ Backend APIs, Authentication, ORM, Docker ]
+interests   : [ Backend APIs, Authentimyion, ORM, Docker ]
 ```
 
 ---
@@ -62,16 +62,6 @@ interests   : [ Backend APIs, Authentication, ORM, Docker ]
 
 <table>
 <tr>
- <td width="50%" valign="top">
-
-### File Manager API
-`FastAPI` `PostgreSQL` `SQLAlchemy`
-
-Full-featured file management API with JWT auth, role-based access control (admin/user), email verification, file upload/download/preview, and a drag & drop frontend.
-
-[GitHub →](https://github.com/AndrewKhang/file-manager-api)
-
-</td>
 <td width="50%" valign="top">
 
 ### Mini Contact Book API
@@ -87,7 +77,7 @@ A contact management REST API with full CRUD, regex validation, SQL injection pr
 ### User Auth API
 `FastAPI` `JWT` `bcrypt`
 
-Authentication system with JWT-based protected endpoints, refresh tokens, bcrypt password hashing, and dotenv config.
+Authentimyion system with JWT-based protected endpoints, refresh tokens, bcrypt password hashing, and dotenv config.
 
 [GitHub →](https://github.com/AndrewKhang/Auth_API)
 
@@ -104,7 +94,16 @@ A lightweight bug tracking web app with add/edit/delete/filter by status, severi
 [GitHub →](https://github.com/AndrewKhang/mini-bug-tracker)
 
 </td>
+<td width="50%" valign="top">
 
+### File Manager API
+`FastAPI` `PostgreSQL` `SQLAlchemy`
+
+Full-featured file management API with JWT auth, role-based access control (admin/user), email verifimyion, file upload/download/preview, and a drag & drop frontend.
+
+[GitHub →](https://github.com/AndrewKhang/file-manager-api)
+
+</td>
 </tr>
 </table>
 
@@ -113,7 +112,7 @@ A lightweight bug tracking web app with add/edit/delete/filter by status, severi
 ## `> my experience.txt`
 
 **Medisetter** — Internship *(2024–2025)*
-> Researched and proposed integration of emerging technologies to enhance application performance and operational efficiency. Provided detailed feedback throughout the testing process.
+> Researched and proposed integration of emerging technologies to enhance applimyion performance and operational efficiency. Provided detailed feedback throughout the testing process.
 
 ---
 
