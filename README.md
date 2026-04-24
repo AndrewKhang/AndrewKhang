@@ -62,6 +62,16 @@ interests   : [ Backend APIs, Authentication, ORM, Docker ]
 
 <table>
 <tr>
+ <td width="50%" valign="top">
+
+### File Manager API
+`FastAPI` `PostgreSQL` `SQLAlchemy`
+
+Full-featured file management API with JWT auth, role-based access control (admin/user), email verification, file upload/download/preview, and a drag & drop frontend.
+
+[GitHub →](https://github.com/AndrewKhang/file-manager-api)
+
+</td>
 <td width="50%" valign="top">
 
 ### Mini Contact Book API
@@ -94,22 +104,13 @@ A lightweight bug tracking web app with add/edit/delete/filter by status, severi
 [GitHub →](https://github.com/AndrewKhang/mini-bug-tracker)
 
 </td>
-<td width="50%" valign="top">
 
-### File Manager API
-`FastAPI` `PostgreSQL` `SQLAlchemy`
-
-Full-featured file management API with JWT auth, role-based access control (admin/user), email verification, file upload/download/preview, and a drag & drop frontend.
-
-[GitHub →](https://github.com/AndrewKhang/file-manager-api)
-
-</td>
 </tr>
 </table>
 
 ---
 
-## `> cat experience.txt`
+## `> my experience.txt`
 
 **Medisetter** — Internship *(2024–2025)*
 > Researched and proposed integration of emerging technologies to enhance application performance and operational efficiency. Provided detailed feedback throughout the testing process.
@@ -127,7 +128,7 @@ Full-featured file management API with JWT auth, role-based access control (admi
 
 ---
 
-## `> cat philosophy.txt`
+## `> my philosophy.txt`
 
 > *"You don't need to be the best from the start — just curious enough to keep building."*
 
