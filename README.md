@@ -18,10 +18,10 @@
 ```yaml
 name        : Nguyen Thuan Khang
 role        : Computer Science Student & Backend Developer
-edumyion   : Bachelor of Computer Science · Swinburne University of Technology (2022–2026)
-lomyion    : Ho Chi Minh City, Vietnam 🇻🇳
+education   : Bachelor of Computer Science · Swinburne University of Technology (2022–2026)
+location    : Ho Chi Minh City, Vietnam 🇻🇳
 ielts       : 6.5
-interests   : [ Backend APIs, Authentimyion, ORM, Docker ]
+interests   : [ Backend APIs, Authentication, ORM, Docker, Caching ]
 ```
 
 ---
@@ -35,6 +35,8 @@ interests   : [ Backend APIs, Authentimyion, ORM, Docker ]
 ![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-512BD4?style=flat-square&logo=python&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=python&logoColor=white)
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -52,6 +54,7 @@ interests   : [ Backend APIs, Authentimyion, ORM, Docker ]
 ### Tools & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -77,7 +80,7 @@ A contact management REST API with full CRUD, regex validation, SQL injection pr
 ### User Auth API
 `FastAPI` `JWT` `bcrypt`
 
-Authentimyion system with JWT-based protected endpoints, refresh tokens, bcrypt password hashing, and dotenv config.
+Authentication system with JWT-based protected endpoints, refresh tokens, bcrypt password hashing, and dotenv config.
 
 [GitHub →](https://github.com/AndrewKhang/Auth_API)
 
@@ -86,12 +89,12 @@ Authentimyion system with JWT-based protected endpoints, refresh tokens, bcrypt 
 <tr>
 <td width="50%" valign="top">
 
-### Mini Bug Tracker
-`HTML` `CSS` `JavaScript`
+### URL Shortener API
+`FastAPI` `PostgreSQL` `Redis` `SQLAlchemy`
 
-A lightweight bug tracking web app with add/edit/delete/filter by status, severity-based color coding, and a responsive UI.
+Production-ready URL shortening service with Base62 key generation, collision handling, Redis caching, atomic rate limiting via Lua, click analytics (device + geolocation), and link expiration. Deployed on Render.
 
-[GitHub →](https://github.com/AndrewKhang/mini-bug-tracker)
+[GitHub →](https://github.com/AndrewKhang/url_shortener) · [Live →](https://url-shortener-sg93.onrender.com/static/index.html)
 
 </td>
 <td width="50%" valign="top">
@@ -99,7 +102,7 @@ A lightweight bug tracking web app with add/edit/delete/filter by status, severi
 ### File Manager API
 `FastAPI` `PostgreSQL` `SQLAlchemy`
 
-Full-featured file management API with JWT auth, role-based access control (admin/user), email verifimyion, file upload/download/preview, and a drag & drop frontend.
+Full-featured file management API with JWT auth, role-based access control (admin/user), email verification, file upload/download/preview, and a drag & drop frontend.
 
 [GitHub →](https://github.com/AndrewKhang/file-manager-api)
 
@@ -109,15 +112,14 @@ Full-featured file management API with JWT auth, role-based access control (admi
 
 ---
 
-## `> my experience.txt`
+## `> my_experience.txt`
 
 **Medisetter** — Internship *(2024–2025)*
-> Researched and proposed integration of emerging technologies to enhance applimyion performance and operational efficiency. Provided detailed feedback throughout the testing process.
+> Researched and proposed integration of emerging technologies to enhance application performance and operational efficiency. Provided detailed feedback throughout the testing process.
 
 ---
 
-
-## `> my philosophy.txt`
+## `> my_philosophy.txt`
 
 > *"You don't need to be the best from the start — just curious enough to keep building."*
 
