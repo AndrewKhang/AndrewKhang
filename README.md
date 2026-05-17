@@ -115,7 +115,7 @@ Full-featured file management API with JWT auth, role-based access control (admi
 ## `> my_experience.txt`
 
 **Medisetter** — Internship *(2024–2025)*
-> Researched and proposed integration of emerging technologies to enhance application performance and operational efficiency. Provided detailed feedback throughout the testing process.
+> Contributed to PHP-based web development by forking and modifying source code under lead guidance. Performed manual testing on mobile builds and provided structured feedback to the development team.
 
 ---
 
